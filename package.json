@@ -3,11 +3,11 @@
     "version": "0.0.1",
     "dependencies": {
         "express": "4.x",
-        "body-parser": "~1.0.0",
+        "body-parser": "~2.4.0",
         "morgan": "latest",
-        "mongoose": "5.13.20",
-        "express-jwt": "0.2.1",
-        "jsonwebtoken": "0.4.0"
+        "mongoose": "6.13.12",
+        "express-jwt": "6.0.0",
+        "jsonwebtoken": "9.0.0"
     },
     "engines": {
         "node": ">=0.10.0"
